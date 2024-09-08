@@ -1,6 +1,5 @@
-Here’s a README file tailored specifically for your machine learning assignment on regression:
 
----
+
 
 # 📊 Machine Learning Assignment: Regression
 
@@ -85,6 +84,4 @@ The performance of each regression model is compared based on the evaluation met
 
 I would like to thank the **PW Skills** team for their guidance and for providing such a comprehensive course. This assignment has been a great learning experience!
 
----
 
-Feel free to adjust any parts based on your preferences or additional details you'd like to include!
